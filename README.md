@@ -1,4 +1,4 @@
-# QuantizationAwareDeepOptics
+# QDO
 
 This repository provides the code for the paper *Quantization-aware Deep Optics for Diffractive Snapshot Hyperspectral Imaging* (CVPR 2022).
 
