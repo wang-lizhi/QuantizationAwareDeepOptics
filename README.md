@@ -115,6 +115,7 @@ If our code is useful in your reseach work, please consider citing our paper.
   title={Quantization-aware Deep Optics for Diffractive Snapshot Hyperspectral Imaging},
   author={Li, Lingen and Wang, Lizhi and Song, Weitao and Zhang, Lei and Xiong, Zhiwei and Huang, Hua},
   booktitle={CVPR},
-  year={2022}
+  year={2022},
+  pages={19780-19789}
 }
 ```
