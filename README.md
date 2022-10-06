@@ -64,9 +64,9 @@ This example shows a 4-level QDO+A model using SK1300 as the DOE material. Its s
 
  ```--adaptive_quantization``` argument (optional) defines whether to use adaptive quantization (QDO+A model) or not (QDO model).
 
- ```--sensor_distance_mm``` argument defines the distance between the DOE to the sensor plane in millimeter.
+ ```--sensor_distance_mm``` argument defines the distance between the DOE to the sensor plane in millimeters.
 
- ```--scene_depth_m``` argument defines the distance between the scene to the DOE in meter.
+ ```--scene_depth_m``` argument defines the distance between the scene to the DOE in meters.
 
  ```--tag``` argument is a label that makes it easier to manage checkpoints and log files.
 
